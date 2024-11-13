@@ -11,7 +11,6 @@
 <div align="center">
     <img alt="Seguidores en GitHub" src="https://img.shields.io/github/followers/SalvatierraDev?style=social" />
     <img alt="Estrellas en GitHub" src="https://img.shields.io/github/stars/SalvatierraDev?style=social" />
-    <img alt="Visitantes" src="https://visitor-badge.laobi.icu/badge?page_id=SalvatierraDev.repoName" />
     <img src="https://komarev.com/ghpvc/?username=salvatierraprogrammer" alt="SalvatierraDev" />
 </div>
 
