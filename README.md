@@ -1,6 +1,6 @@
 <div align="center" style="width: 50%;" border-radius: 50%;>
     <img alt="Diego programador" 
-         src="" 
+         src="https://scontent.faep24-2.fna.fbcdn.net/v/t39.30808-6/465377720_1078276737223627_258826772901776002_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEzn39V4lQVs570cSL3hbD_12ut3tOevp_Xa63e056-nxRMwO8P5EC4EKrFgo8RjwO1Gv09VoR2-VVAaK8-Ruek&_nc_ohc=ofMbkTyJ4YoQ7kNvgGw3ZY4&_nc_zt=23&_nc_ht=scontent.faep24-2.fna&_nc_gid=AdD8UYi83rqHHOJOq_-2qjW&oh=00_AYApqxSWZIPec9NvWr32gN5UKjpTWJ8A-CbiIi_yPE7zCg&oe=673AF918" 
          width="300" style="border-radius: 50%;" />
 </div>
 
