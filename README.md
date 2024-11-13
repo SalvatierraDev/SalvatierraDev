@@ -139,7 +139,6 @@
       <strong>Comunidad CS 1.6 🌐:</strong>
       <ul>
         <li><strong>Ver web:</strong> <a href="https://baquitacomunidadcs.netlify.app/">Haz clic aquí</a>.</li>
-  
       </ul>
     </td>
   </tr>
