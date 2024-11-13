@@ -9,10 +9,10 @@
 </h1>
 
 <div align="center">
-    <img alt="Seguidores en GitHub" src="https://img.shields.io/github/followers/salvatierraprogrammer?style=social" />
-    <img alt="Estrellas en GitHub" src="https://img.shields.io/github/stars/salvatierraprogrammer?style=social" />
-    <img alt="Visitantes" src="https://visitor-badge.laobi.icu/badge?page_id=salvatierraprogrammer.repoName" />
-    <img src="https://komarev.com/ghpvc/?username=salvatierraprogrammer" alt="salvatierraprogrammer" />
+    <img alt="Seguidores en GitHub" src="https://img.shields.io/github/followers/SalvatierraDev?style=social" />
+    <img alt="Estrellas en GitHub" src="https://img.shields.io/github/stars/SalvatierraDev?style=social" />
+    <img alt="Visitantes" src="https://visitor-badge.laobi.icu/badge?page_id=SalvatierraDev.repoName" />
+    <img src="https://komarev.com/ghpvc/?username=salvatierraprogrammer" alt="SalvatierraDev" />
 </div>
 
 ## Sobre Mí:
@@ -59,7 +59,7 @@
 
 ## Estadísticas de GitHub 📈:
 
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=salvatierraprogrammer&theme=algolia)](https://github.com/salvatierraprogrammer/github-readme-stats)
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatierraDev&theme=algolia)](https://github.com/salvatierraprogrammer/github-readme-stats)
 
 ---
 
