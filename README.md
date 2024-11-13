@@ -32,7 +32,7 @@
     <a href="https://www.linkedin.com/in/dos354ab4/">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@Diego Salvatierra"/>
     </a>
-    <a href="https://github.com/salvatierraprogrammer">
+    <a href="https://github.com/SalvatierraDev">
         <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="@Github Diego"/>
     </a>
 </div>
@@ -118,7 +118,6 @@
       <strong>Calculo de compras React + TypeScript + Vite 🌐:</strong>
       <ul>
         <li><strong>Ver la web:</strong> <a href="https://mis-compras-calculo.netlify.app/">Haz clic aquí</a>.</li>
-        <li><strong>Código fuente:</strong> <a href="https://github.com/salvatierraprogrammer/misCompras">Repositorio en GitHub</a>.</li>
       </ul>
     </td>
   </tr>
@@ -140,7 +139,7 @@
       <strong>Comunidad CS 1.6 🌐:</strong>
       <ul>
         <li><strong>Ver web:</strong> <a href="https://baquitacomunidadcs.netlify.app/">Haz clic aquí</a>.</li>
-        <li><strong>Código:</strong> <a href="#">Ver código fuente</a>.</li>
+  
       </ul>
     </td>
   </tr>
