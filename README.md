@@ -100,7 +100,7 @@
       <ul>
         <li><strong>Descargar APK:</strong> <a href="https://drive.google.com/file/d/1sSEXt5JWVBSrkVzcKSn5v8nVO6C6xi66/view?usp=sharing">Haz clic aquí</a>.</li>
         <li><strong>Ver PDF:</strong> <a href="https://drive.google.com/file/d/1nbBHqSKm4PHVg8UxABweilFKFIUSGvZv/view?usp=sharing">Haz clic aquí</a>.</li>
-        <li><strong>Código:</strong> <a href="https://github.com/SalvatierraDev/react-vite-firebase-mis-compras/tree/master">Ver código fuente</a>.</li>
+        <li><strong>Código:</strong> <a href="https://github.com/SalvatierraDev/react-vite-firebase-mis-compras">Ver código fuente</a>.</li>
       </ul>
     </td>
   </tr>
