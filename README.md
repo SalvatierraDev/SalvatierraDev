@@ -66,7 +66,7 @@
 
 ## Proyectos  Backend:
 
-### Agenda de notas en React Native Expo 📱
+### Agenda de notas en React Native Expo + Firebase📱
 
 <table align="center">
   <tr>
@@ -91,7 +91,7 @@
 <table align="center">
   <tr>
     <td>
-      <img alt="Proyecto Cálculo de Compras" 
+      <img alt="Proyecto Cálculo de Compras React native expo + Firebase" 
            src="https://firebasestorage.googleapis.com/v0/b/react-firebase-e0cf3.appspot.com/o/Google%20Pixel%204%20XL%20Presentation.png?alt=media&token=8eb903bb-f9df-4fc9-b71d-1a033855931b" 
            width="250"/>
     </td>
@@ -100,13 +100,13 @@
       <ul>
         <li><strong>Descargar APK:</strong> <a href="https://drive.google.com/file/d/1sSEXt5JWVBSrkVzcKSn5v8nVO6C6xi66/view?usp=sharing">Haz clic aquí</a>.</li>
         <li><strong>Ver PDF:</strong> <a href="https://drive.google.com/file/d/1nbBHqSKm4PHVg8UxABweilFKFIUSGvZv/view?usp=sharing">Haz clic aquí</a>.</li>
-        <li><strong>Código:</strong> <a href="https://github.com/SalvatierraDev/react-vite-firebase-mis-compras">Ver código fuente</a>.</li>
+        <li><strong>Código:</strong> <a href="#">Ver código fuente</a>.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-### Calculo de compras React + TypeScript + Vite
+### Calculo de compras React + Vite + Firebase
 <table align="center">
   <tr>
     <td>
@@ -115,10 +115,10 @@
            width="250"/>
     </td>
     <td>
-      <strong>Cálculo de Compras React + TypeScript + Vite 🌐:</strong>
+      <strong>Cálculo de Compras React + Vite + Firebase 🌐:</strong>
       <ul>
         <li><strong>Ver la web:</strong> <a href="https://mis-compras-calculo.netlify.app/">Haz clic aquí</a>.</li>
-        <li><strong>Código fuente:</strong> <a href="https://github.com/SalvatierraDev/misCompras">Repositorio en GitHub</a>.</li>
+        <li><strong>Código fuente:</strong> <a href="https://github.com/SalvatierraDev/react-vite-firebase-mis-compras">Repositorio en GitHub</a>.</li>
       </ul>
     </td>
   </tr>
@@ -126,7 +126,7 @@
 
 ---
 
-### Comunidad CS 1.6 React + TypeScript + Vite
+### Comunidad CS 1.6 React + Vite + Firebase
 
 <table align="center">
   <tr>
