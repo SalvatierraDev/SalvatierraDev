@@ -118,7 +118,7 @@
       <strong>Cálculo de Compras React + Vite + Firebase 🌐:</strong>
       <ul>
         <li><strong>Ver la web:</strong> <a href="https://mis-compras-calculo.netlify.app/">Haz clic aquí</a>.</li>
-        <li><strong>Código fuente:</strong> <a href="https://github.com/SalvatierraDev/react-vite-firebase-mis-compras">Repositorio en GitHub</a>.</li>
+        <li><strong>Código fuente:</strong> <a href="https://github.com/SalvatierraDev/react-vite-firebase-mis-compras">Ver código fuente</a>.</li>
       </ul>
     </td>
   </tr>
